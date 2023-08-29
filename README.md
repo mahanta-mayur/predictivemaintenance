@@ -1,7 +1,19 @@
 # Predictive Maintenance Analysis for Engineering Applications
 
 ## IE 7374 Statistical Learning for Engineering
-### Predictive Maintenance Analysis
+### Predictive Maintenance Analysis - Group 11
+
+**Team Members:**
+- Aniket Sakharkar
+- Mayur Mahanta
+- Jwalit Shah
+- Dev Patel
+
+**Contact Information:**
+- Aniket Sakharkar: Phone - 857-230-5126, Email - sakharkar.a@northeastern.edu
+- Mayur Mahanta: Phone - 857-437-9190, Email - mahanta.m@northeastern.edu
+- Jwalit Shah: Phone - 732-209-2041, Email - shah.jwa@northeastern.edu
+- Dev Patel: Phone - 978-710-1327, Email - patel.dev4@northeastern.edu
 
 ## Abstract
 This project focuses on Predictive Maintenance in engineering using machine learning. Predictive Maintenance uses data-driven methods to analyze equipment conditions and predict maintenance needs. We worked with a synthetic dataset of 10,000 records and 14 features from the UCI ML repository, applying data preprocessing, feature engineering, and implementing machine learning models. The goal was to optimize maintenance timing, improve productivity, and reduce costs.
@@ -22,7 +34,8 @@ We implemented Logistic Regression, Naive Bayes, Decision Trees, and Support Vec
 Our project demonstrated that Logistic Regression outperformed other models with an F1-score of 0.99. This indicates its effectiveness in predicting equipment failures. Predictive Maintenance can revolutionize industries by enhancing safety, productivity, and cost efficiency.
 
 ## Screenshots and Visuals
-*Include relevant screenshots and visuals to illustrate the EDA, feature engineering, and model results.*
+![Feature Engineering Heat Map](ML%20Pictures/Feature%20Engineering/Heat%20Map%20FE.png)
+![Feature Engineering Pairplot](ML%20Pictures/Feature%20Engineering/Pairplot%20FE.png)
 
 ## References
 - Microsoft Learn. "Introduction to Predictive Maintenance in Manufacturing - Azure Architecture Center."
